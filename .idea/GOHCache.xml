@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Task">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/entity/tasks.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Tasks">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/entity/tasks.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/cmd/handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753024769562" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/entity/task_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753021589356" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/entity/tasks.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753024429800" />
+              <option name="schema">
+                <list>
+                  <option value="Tasks" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/helper/helper.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753019543933" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753022669728" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/json_handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753022554836" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/json_handler_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753022554826" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="task" value="Task" />
+        <entry key="tasks" value="Tasks" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1753018334995" />
+  </component>
+</project>
